@@ -27,4 +27,5 @@ This dashboard helps businesses make data-driven decisions by analyzing sales pa
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](<img width="1815" height="629" alt="Screenshot 2026-05-01 105405" src="https://github.com/user-attachments/assets/5147a7d9-261a-4f55-b4f9-f4dac4348e2b" />
+)
