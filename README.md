@@ -27,6 +27,6 @@ This dashboard helps businesses make data-driven decisions by analyzing sales pa
 
 ## Dashboard Preview
 
-![Dashboard](<img width="1815" height="629" alt="Coffee Sales Dasboard" src="https://github.com/user-attachments/assets/d4970fdc-45b4-4417-8823-36667b0c063b" />
+<img width="1815" height="629" alt="Coffee Sales Dasboard" src="https://github.com/user-attachments/assets/d4970fdc-45b4-4417-8823-36667b0c063b" />
 
-)
+
